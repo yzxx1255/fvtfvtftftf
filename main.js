@@ -1,0 +1,1 @@
+body{font-family:Arial;margin:0;padding:2rem;background:#eef5ff}header{background:#2563eb;color:#fff;padding:2rem}button{padding:.6rem 1rem}
